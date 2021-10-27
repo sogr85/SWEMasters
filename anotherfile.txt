@@ -1,1 +1,3 @@
-Hallo ich habe kein Netbeans mehr, somit füge ich einmal eine Textdatei dazu
+Hallo ich habe kein Netbeans mehr, somit füge ich einmal eine Textdatei dazu. 
+
+Ich verwende Visual Studio Code
